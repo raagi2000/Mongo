@@ -5,5 +5,5 @@ variable "file_path" {
 
 variable "file_content" {
     type = string
-    description = "content of the file"
+    description = "content of the file1"
 }
